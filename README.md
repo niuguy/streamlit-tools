@@ -3,11 +3,12 @@ A collection of tools built with [Streamlit](https://streamlit.io/).
 
 Tools include:
 1. dbchat - Chat to your DB
+
 Dependencies: SQLAlchemy, openai, (your db driver e.g. psycopg2)
 
-2. sqlcsv - Download sql query results as csv
+3. sqlcsv - Download sql query results as csv
 
-3. cloudflareimages - Manage your Cloudflare images
+4. cloudflareimages - Manage your Cloudflare images
 
 
 ## Installation
