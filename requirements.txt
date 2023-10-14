@@ -1,0 +1,6 @@
+SQLAlchemy==2.0.22
+langchain==0.0.314
+streamlit==1.27.2
+python-dotenv==1.0.0
+psycopg2==2.9.9
+openai==0.28.1
